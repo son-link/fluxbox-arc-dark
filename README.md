@@ -15,3 +15,7 @@ Under GNU/GPL 3 license
 ![Preview](preview.png)
 
 ![Active Window](active_window.png)
+
+## Install
+
+Simply copy the Arc-Dark folder to .fluxbox/styles on your home folder or /usr/share/fluxbox/styles for all users
